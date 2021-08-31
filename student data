@@ -1,0 +1,17 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int enroll;
+    char name; 
+    cout<<"Enter the enroll no.:";
+    cin>>enroll;
+    cout<<"Enter your name:";
+    cin>>name; 
+    cout<<name<<endl;
+    cout<<enroll; 
+
+    return 0;
+}
